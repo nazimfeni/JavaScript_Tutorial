@@ -15,7 +15,7 @@ VScode - Visual Studio code editor
 nodejs - Node.js is a runtime environment — it runs JavaScript code on your computer or server.
 ```
 
-### Install Extension
+### Install VSCode Extension
 
 ```
 Auto Close Tag
