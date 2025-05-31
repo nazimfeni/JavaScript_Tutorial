@@ -1,4 +1,5 @@
 window.alert("Hello World");
+document.getElementById("test").innerText = "I love JavaScript";
 //console.log("Hello World");
 
 function display(){
