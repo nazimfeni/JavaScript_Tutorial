@@ -5,9 +5,9 @@
 3. How to Include a JavaScript File in an HTML File
 4. How to View JavaScript Output (Computer and browser)
 5. variable, function
-6. JavaScript Concepts 
-    - object(window, console, document)
-    - properties, method 
+6. JavaScript Concepts
+   - object(window, console, document)
+   - properties, method
 
 ### Prerequisites
 
@@ -20,5 +20,6 @@
 - Auto Close Tag
 - Auto Rename Tag
 - Prettier - Code formatter
+- Material Icon Theme
+- IntelliCode
 - Live Server
-
