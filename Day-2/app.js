@@ -1,6 +1,6 @@
   
     var balanceText = document.getElementById('balance').textContent;
-    alert(balanceText)
+
     var balance = parseFloat(balanceText);
     
 
